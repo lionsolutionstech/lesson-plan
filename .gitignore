@@ -1,5 +1,6 @@
 *.aug
 *.log
+lesson-plan-example.pdf
 # IDE or compiler specific
 # exclusions
 *.synctex.gz
